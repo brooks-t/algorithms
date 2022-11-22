@@ -1,3 +1,3 @@
-# pull-request-demo
+# algorithms
 
-Now, I am a demo for a Pull Request!
+This repo is for practiving various JavaScript algorithms
